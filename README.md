@@ -1,5 +1,6 @@
 # subconverter
 
+Only For MURChen
 Utility to convert between various proxy subscription formats.
 
 [![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/tindy2013/subconverter.svg)](https://github.com/tindy2013/subconverter/tags)
