@@ -1,6 +1,7 @@
 [[custom_groups]]
 name = "🔰 Warp"
 type = "reply"
-proxies:
+proxies:[
       - 🚀 节点选择
       - Warp1
+      ]
