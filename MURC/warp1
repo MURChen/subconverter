@@ -1,0 +1,15 @@
+port: 7890
+socks-port: 7891
+allow-lan: true
+mode: rule
+log-level: info
+ipv6: false
+proxies:
+  - name: "warp1"
+    type: wireguard
+    server: 162.159.192.139
+    port: 5956
+    ip: 172.16.0.2
+    private-key: "o4uyyPiKtAByO97l1v4yb2XiqaZuf1kyr1VDWmPECSg="
+    public-key: "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo="
+    udp: true
