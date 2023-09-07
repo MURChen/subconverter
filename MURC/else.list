@@ -12,3 +12,5 @@ DOMAIN-SUFFIX,mikrotik-doc-cn.readthedocs.io
 DOMAIN-SUFFIX,synology.com
 #卡巴斯基
 DOMAIN-KEYWORD,kaspersky
+#雷蛇
+DOMAIN-SUFFIX,razer.com
