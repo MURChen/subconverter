@@ -8,11 +8,22 @@ DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN-SUFFIX,auth0.openai.com
 DOMAIN-SUFFIX,platform.openai.com
 # Add ai.com
-DOMAIN-SUFFIX,ai.com
+DOMAIN-SUFFIX,auth0.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,sfx.ms
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
 # Add stripe.com
 DOMAIN-SUFFIX,invoice.stripe.com
 DOMAIN-SUFFIX,stripe.com
-#add poe.com
+# Add Bing and Bard
+DOMAIN,bard.google.com
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,identrust.com
+DOMAIN,openaiapi-site.azureedge.net
+# Add poe.com
 DOMAIN-SUFFIX,poe.com
-#add bard.google.com
-DOMAIN-SUFFIX,bard.google.com
+# Add Anthropic
+DOMAIN,servd-anthropic-website.b-cdn.net
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai
