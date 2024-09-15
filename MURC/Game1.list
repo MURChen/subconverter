@@ -1,26 +1,26 @@
 # Xbox
-- DOMAIN-SUFFIX,xbox360.com
-- DOMAIN-SUFFIX,gamepass.com
-- DOMAIN-SUFFIX,xbox.com
-- DOMAIN-SUFFIX,xboxab.com
-- DOMAIN-SUFFIX,xboxab.net
-- DOMAIN-SUFFIX,xboxlive.com
-- DOMAIN-SUFFIX,xboxservices.com
-- DOMAIN-KEYWORD,xbox
+DOMAIN-SUFFIX,xbox360.com
+DOMAIN-SUFFIX,gamepass.com
+DOMAIN-SUFFIX,xbox.com
+DOMAIN-SUFFIX,xboxab.com
+DOMAIN-SUFFIX,xboxab.net
+DOMAIN-SUFFIX,xboxlive.com
+DOMAIN-SUFFIX,xboxservices.com
+DOMAIN-KEYWORD,xbox
 # Ubisoft
-- DOMAIN-SUFFIX,ubisoft.com
-- DOMAIN-SUFFIX,ubi.com
-- DOMAIN-SUFFIX,ubisoft.org
-- DOMAIN-SUFFIX,ubisoftconnect.com
+DOMAIN-SUFFIX,ubisoft.com
+DOMAIN-SUFFIX,ubi.com
+DOMAIN-SUFFIX,ubisoft.org
+DOMAIN-SUFFIX,ubisoftconnect.com
 # Rockstar-Games
-- DOMAIN-SUFFIX,rockstargames
-- DOMAIN-KEYWORD,rockstar
+DOMAIN-SUFFIX,rockstargames
+DOMAIN-KEYWORD,rockstar
 # GOG
-- DOMAIN-SUFFIX,gog.com
-- DOMAIN-SUFFIX,gog-statics.com
-- DOMAIN-SUFFIX,gogalaxy.com
-- DOMAIN-SUFFIX,gogcdn.net
+DOMAIN-SUFFIX,gog.com
+DOMAIN-SUFFIX,gog-statics.com
+DOMAIN-SUFFIX,gogalaxy.com
+DOMAIN-SUFFIX,gogcdn.net
 # Playstation
-- DOMAIN-SUFFIX,playstation.com
-- DOMAIN-SUFFIX,playstation.net
-- DOMAIN-SUFFIX,sonyentertainmentnetwork.com
+DOMAIN-SUFFIX,playstation.com
+DOMAIN-SUFFIX,playstation.net
+DOMAIN-SUFFIX,sonyentertainmentnetwork.com
