@@ -6,3 +6,5 @@ DOMAIN-SUFFIX,hdfans.org,DIRECT
 #星际迷航-中国
 DOMAIN-SUFFIX,demo.narwh.ch,DIRECT
 DOMAIN-SUFFIX,vercel.mirror.startrekcn.cn,DIRECT
+#PING0 ip检测
+DOMAIN-SUFFIX,ip.ping0.cc,DIRECT
