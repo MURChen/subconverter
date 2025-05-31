@@ -8,3 +8,5 @@ DOMAIN-SUFFIX,demo.narwh.ch,DIRECT
 DOMAIN-SUFFIX,vercel.mirror.startrekcn.cn,DIRECT
 #PING0 ip检测
 DOMAIN-SUFFIX,ping0.cc,DIRECT
+#腾讯
+DOMAIN-SUFFIX,wxapp.tc.qq.com,DIRECT
