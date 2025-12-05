@@ -11,3 +11,5 @@ DOMAIN-SUFFIX,dl.l.google.com
 #DSM
 DOMAIN-SUFFIX,mikrotik-doc-cn.readthedocs.io
 DOMAIN-SUFFIX,synology.com
+#资源
+DOMAIN-SUFFIX,gying.net
