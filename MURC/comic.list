@@ -1,11 +1,22 @@
-#漫画柜
-DOMAIN-KEYWORD,manhuagui
-DOMAIN-KEYWORD,mhgui
-#漫画人
-DOMAIN-KEYWORD,manhuaren
-#漫画猫
 DOMAIN-SUFFIX,maofly.com
-DOMAIN-KEYWORD,picacomic
-DOMAIN-SUFFIX,picacomic.com
 DOMAIN-SUFFIX,baozimh.com
 DOMAIN-SUFFIX,hamreus.com
+# 拷贝漫画
+DOMAIN-SUFFIX,mangafunb.fun
+DOMAIN-SUFFIX,mangacopy.com
+DOMAIN-SUFFIX,copy20.com
+DOMAIN-SUFFIX,copy2000.online
+DOMAIN-SUFFIX,copy-manga.com
+DOMAIN-SUFFIX,2025copy.com
+DOMAIN-SUFFIX,mangafuna.xyz
+# pika漫画
+DOMAIN-SUFFIX,manhuabika.com
+DOMAIN-SUFFIX,picacgp.com
+DOMAIN-SUFFIX,picacgy.com
+DOMAIN-SUFFIX,picacn.xyz
+DOMAIN-SUFFIX,picacomic.com
+DOMAIN-SUFFIX,picacomic.xyz
+DOMAIN-SUFFIX,wikawika.xyz
+DOMAIN-SUFFIX,diwodiwo.xyz
+DOMAIN-SUFFIX,ad-channel.diwodiwo.xyz
+DOMAIN-SUFFIX,ad-display.diwodiwo.xyz
